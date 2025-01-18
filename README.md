@@ -22,7 +22,7 @@
 
 * **Detailed oriented researcher**: my research involves the analysis of nonlinear partial differential equations, often requiring meticulous derivation of a priori estimates combined with deep ideas from Functional Analysis 
 * **Passionate mentor and educator**:  
-* **Machine Learning practitioner**: I am very interested in the applications of machine learning and data science algorithms, and have experience training and deploying deep learning models in PyTorch and TensorFlow
+* **Data Scientist and Machine Learning practitioner**: I am very interested in the applications of machine learning and data science algorithms, and have experience training and deploying deep learning models in PyTorch and TensorFlow
 
 ### 🤔 Current Projects
 
