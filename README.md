@@ -10,8 +10,8 @@
 
 <hr style="border:2px solid #4682b4">
 
-* Postdoctoral Teaching Associate in the [Department of Mathematics](https://www.cmu.edu/math/index.html) at [Carnegie Mellon](https://www.cmu.edu/)
-* Ph.D. in Mathematics from Carnegie Mellon, specializing in the analysis of the [Navier-Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) (unfortunately, haven't solved the [million dollar Millennium problem](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness) yet)
+* Postdoctoral Teaching Associate in the [Department of Mathematics](https://www.cmu.edu/math/index.html) at [Carnegie Mellon University](https://www.cmu.edu/)
+* Ph.D. in Mathematics from Carnegie Mellon University, specializing in the analysis of the [Navier-Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) (unfortunately, haven't solved the [million dollar Millennium problem](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness) yet)
 * Particularly interested in quantitative modeling, statistical analysis and applications of deep learning algorithms to solve real-world data-driven problems 
 
 
@@ -29,7 +29,6 @@
 
 * **Detailed oriented researcher**: my research involves the analysis of nonlinear partial differential equations, often requiring meticulous derivation of a priori estimates combined with deep ideas from Functional Analysis 
 * **Passionate mentor and educator**:  
-
 * **Machine Learning practitioner**: I am very interested in the applications of machine learning and data science algorithms to real-world problems, and have experience training and deploying deep learning models in PyTorch and TensorFlow
 
 <hr style="border:2px solid #4682b4">
