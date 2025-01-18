@@ -16,7 +16,6 @@
 
 I am actively seeking **quantitative research** and **data science** positions where I can apply my analytical expertise and leadership skills to deliver products and make meaningful contributions. My resume is available by request ([email](mailto:jkoganem@gmail.com)), and I am always open to new opportunities and collaborations. 
 
-<hr style="border:2px solid #4682b4">
 <div id="toc">
   <ul style="list-style: none">
     <summary>
@@ -26,6 +25,9 @@ I am actively seeking **quantitative research** and **data science** positions w
     </summary>
   </ul>
 </div>
+
+<hr style="border:2px solid #4682b4">
+
 
 * **Detailed oriented researcher**: my research involves the analysis of nonlinear partial differential equations, often requiring meticulous derivation of a priori estimates combined with deep ideas from Functional Analysis 
 * **Passionate mentor and educator**:  
