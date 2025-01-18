@@ -25,7 +25,8 @@
 
 ### 🤔 Current Projects
 
-* 
+* Teaching a course on applications of Linear Algebra to Engineering, Data Science, and Machine Learning at Carnegie Mellon University [GitHub Repo](https://github.com/jkoganem/Teaching-Advanced-Linear-Algebra-21366)
+* Teaching Differential Equations at Carnegie Mellon University [GitHub Repo](https://github.com/jkoganem/Teaching-Differential-Equations-21260)
 
 
 <hr style="border:2px solid #4682b4">
@@ -34,10 +35,10 @@
 * BirdClef  
 * WhatTheText
 * RAG 
-* Ph.D. Thesis: Traveling wave solutions to the free boundary incompressible Navier-Stokes equations, 257 pages. [Link](https://kilthub.cmu.edu/articles/thesis/Traveling_wave_solutions_to_the_free_boundary_incompressible_Navier-Stokes_equations/24053892?file=42184224)
+* Ph.D. Thesis: Traveling wave solutions to the free boundary incompressible Navier-Stokes equations, 257 pages. [[Link](https://kilthub.cmu.edu/articles/thesis/Traveling_wave_solutions_to_the_free_boundary_incompressible_Navier-Stokes_equations/24053892?file=42184224)]
 * Research publications:
-    * J. Koganemaru, I. Tice. Traveling wave solutions to the free boundary incompressible Navier-Stokes equations with Navier boundary conditions. Journal of Differential Equations. 2024. 57 pages. [Journal Link](https://www.sciencedirect.com/science/article/pii/S0022039624004741)
-    * J.Koganemaru, I. Tice. Traveling wave solutions to the inclined or periodic free boundary incompressible Navier-Stokes equations. Journal of Functional Analysis. 2023. 75 pages. [Journal Link](https://www.sciencedirect.com/science/article/pii/S0022123623002148)
+    * J. Koganemaru, I. Tice. Traveling wave solutions to the free boundary incompressible Navier-Stokes equations with Navier boundary conditions. Journal of Differential Equations. 2024. 57 pages. [[Journal Link](https://www.sciencedirect.com/science/article/pii/S0022039624004741)]
+    * J.Koganemaru, I. Tice. Traveling wave solutions to the inclined or periodic free boundary incompressible Navier-Stokes equations. Journal of Functional Analysis. 2023. 75 pages. [[Journal Link](https://www.sciencedirect.com/science/article/pii/S0022123623002148)]
 
 <hr style="border:2px solid #4682b4">
 
