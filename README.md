@@ -3,6 +3,7 @@
     <summary>
       <h2>
       Hello 👋 I am Junichi Koganemaru
+      <hr style="border:2px solid #4682b4">
       </h2>
     </summary>
   </ul>
