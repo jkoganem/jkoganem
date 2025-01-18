@@ -32,7 +32,8 @@
 
 ### 🧑‍🏫 Past Projects
 
-* Ph.D. Thesis: []
+* Ph.D. Thesis: Traveling wave solutions to the free boundary incompressible Navier-Stokes equations, 257 pages. [Link](https://kilthub.cmu.edu/articles/thesis/Traveling_wave_solutions_to_the_free_boundary_incompressible_Navier-Stokes_equations/24053892?file=42184224)
+
 
 * Research publications:
     * J. Koganemaru, I. Tice. Traveling wave solutions to the free boundary incompressible Navier-Stokes equations with Navier boundary conditions. Journal of Differential Equations. 2024. 57 pages. [Journal Link](https://www.sciencedirect.com/science/article/pii/S0022039624004741)
