@@ -13,7 +13,7 @@
 * Postdoctoral Teaching Associate in the [Department of Mathematics](https://www.cmu.edu/math/index.html) at [Carnegie Mellon University](https://www.cmu.edu/)
 * Ph.D. in Mathematics from Carnegie Mellon University, specializing in the analysis of the [Navier-Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) (unfortunately, haven't solved the [million dollar Millennium problem](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness) yet)
 * Particularly interested in quantitative modeling, statistical analysis and applications of deep learning algorithms to solve real-world data-driven problems 
-* Actively seeking **quantitative research** and **data science** positions where I can apply my analytical expertise and leadership skills to deliver products and make meaningful contributions. My resume is available by request ([email](mailto:jkoganem@gmail.com)), and I am always open to new opportunities and collaborations
+* Actively seeking **quantitative research** and **data science** positions to apply my analytical expertise and leadership skills. My resume is available upon request ([email](mailto:jkoganem@gmail.com)) and I am open to new opportunities and collaborations.
 
 <hr style="border:2px solid #4682b4">
 
@@ -34,7 +34,7 @@
 * BirdClef  
 * WhatTheText
 * RAG 
-* Ph.D. Thesis: Traveling wave solutions to the free boundary incompressible Navier-Stokes equations, 257 pages. [[Link](https://kilthub.cmu.edu/articles/thesis/Traveling_wave_solutions_to_the_free_boundary_incompressible_Navier-Stokes_equations/24053892?file=42184224)]
+* Ph.D. thesis: Traveling wave solutions to the free boundary incompressible Navier-Stokes equations, 257 pages. [[Link](https://kilthub.cmu.edu/articles/thesis/Traveling_wave_solutions_to_the_free_boundary_incompressible_Navier-Stokes_equations/24053892?file=42184224)]
 * Research publications:
     * J. Koganemaru, I. Tice. Traveling wave solutions to the free boundary incompressible Navier-Stokes equations with Navier boundary conditions. Journal of Differential Equations. 2024. 57 pages. [[Journal Link](https://www.sciencedirect.com/science/article/pii/S0022039624004741)]
     * J.Koganemaru, I. Tice. Traveling wave solutions to the inclined or periodic free boundary incompressible Navier-Stokes equations. Journal of Functional Analysis. 2023. 75 pages. [[Journal Link](https://www.sciencedirect.com/science/article/pii/S0022123623002148)]
