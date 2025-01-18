@@ -14,6 +14,7 @@
 * Ph.D. in Mathematics from Carnegie Mellon University, specializing in the analysis of the [Navier-Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) (unfortunately, haven't solved the [million dollar Millennium problem](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness) yet)
 * Particularly interested in quantitative modeling, statistical analysis and applications of deep learning algorithms to solve real-world data-driven problems 
 
+I am actively seeking **quantitative research** and **data science** positions where I can apply my analytical expertise and leadership skills to deliver products and make meaningful contributions. My resume is available by request ([email](mailto:jkoganem@gmail.com)), and I am always open to new opportunities and collaborations. 
 
 <hr style="border:2px solid #4682b4">
 
