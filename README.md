@@ -21,44 +21,24 @@
 
 * **Detailed oriented researcher**: my research involves the analysis of nonlinear partial differential equations, often requiring meticulous derivation of a priori estimates combined with deep ideas from Functional Analysis 
 * **Passionate mentor and educator**:  
-* **Machine Learning practitioner**: I am very interested in the applications of machine learning and data science algorithms to real-world problems, and have experience training and deploying deep learning models in PyTorch and TensorFlow
+* **Machine Learning practitioner**: I am very interested in the applications of machine learning and data science algorithms, and have experience training and deploying deep learning models in PyTorch and TensorFlow
 
-<hr style="border:2px solid #4682b4">
-<div id="toc">
-  <ul style="list-style: none">
-    <summary>
-      <h2>
-      🤔 Current Projects
-      </h2>
-    </summary>
-  </ul>
-</div>
+### 🤔 Current Projects
+
+* 
 
 
 <hr style="border:2px solid #4682b4">
 
+### 🧑‍🏫 Past Projects
 
-<div id="toc">
-  <ul style="list-style: none">
-    <summary>
-      <h2>
-      🧑‍🏫 Past Projects
-      </h2>
-    </summary>
-  </ul>
-</div>
 
 <hr style="border:2px solid #4682b4">
 
-<div id="toc">
-  <ul style="list-style: none">
-    <summary>
-      <h2>
-      📫 How to reach me
-      </h2>
-    </summary>
-  </ul>
-</div>
+### 📫 Contact 
+
+* LinkedIn: [Junichi Koganemaru](https://www.linkedin.com/in/junichi-koganemaru/)
+* Email: [jkoganem at andrew dot cmu dot edu](mailto:jkoganem@andrew.cmu.edu)
 
 
 
