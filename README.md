@@ -13,7 +13,8 @@
 * Postdoctoral Teaching Associate in the [Department of Mathematics](https://www.cmu.edu/math/index.html) at [Carnegie Mellon University](https://www.cmu.edu/)
 * Ph.D. in Mathematics from Carnegie Mellon University, specializing in the analysis of the [Navier-Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) (unfortunately, haven't solved the [million dollar Millennium problem](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness) yet)
 * Particularly interested in quantitative modeling, statistical analysis and applications of deep learning algorithms to solve real-world data-driven problems 
-* Actively seeking **quantitative research** and **data science** positions to apply my analytical expertise and leadership skills. My resume is available upon request ([email](mailto:jkoganem@gmail.com)) and I am open to new opportunities and collaborations.
+* Actively seeking **quantitative research** and **data science** positions to apply my analytical expertise and leadership skills
+* My resume is available upon request ([email](mailto:jkoganem@gmail.com)) and I am open to new opportunities and collaborations
 
 <hr style="border:2px solid #4682b4">
 
