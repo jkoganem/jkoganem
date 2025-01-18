@@ -7,10 +7,12 @@
     </summary>
   </ul>
 </div>
-<hr style="border:2px solid #4682b4">
+
 * Postdoctoral Teaching Associate in the Department of Mathematics at Carnegie Mellon University
 * Ph.D. in Mathematics from Carnegie Mellon University, specializing in the analysis of the Navier-Stokes equations (unfortunately, haven't solved the million dollar problem yet)
 * Particularly interested in the applications of deep learning algorithms to solve real-world data-driven problems
+
+<hr style="border:2px solid #4682b4">
 
 <!-- 
 
