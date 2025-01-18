@@ -17,7 +17,6 @@
 I am actively seeking **quantitative research** and **data science** positions where I can apply my analytical expertise and leadership skills to deliver products and make meaningful contributions. My resume is available by request ([email](mailto:jkoganem@gmail.com)), and I am always open to new opportunities and collaborations. 
 
 <hr style="border:2px solid #4682b4">
-
 <div id="toc">
   <ul style="list-style: none">
     <summary>
@@ -33,7 +32,6 @@ I am actively seeking **quantitative research** and **data science** positions w
 * **Machine Learning practitioner**: I am very interested in the applications of machine learning and data science algorithms to real-world problems, and have experience training and deploying deep learning models in PyTorch and TensorFlow
 
 <hr style="border:2px solid #4682b4">
-
 <div id="toc">
   <ul style="list-style: none">
     <summary>
