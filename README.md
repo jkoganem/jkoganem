@@ -16,15 +16,9 @@
 * Particularly interested in quantitative modeling, statistical analysis and applications of deep learning algorithms to solve real-world data-driven problems 
 * Actively seeking **quantitative research** and **data science** positions where I can apply my analytical expertise and leadership skills to deliver products and make meaningful contributions. My resume is available by request ([email](mailto:jkoganem@gmail.com)), and I am always open to new opportunities and collaborations. 
 
-<div id="toc">
-  <ul style="list-style: none">
-    <summary>
-      <h2>
-      ☕ 
-      </h2>
-    </summary>
-  </ul>
-</div>
+<hr style="border:2px solid #4682b4">
+
+### ☕ About Me
 
 <hr style="border:2px solid #4682b4">
 
