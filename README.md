@@ -13,7 +13,7 @@
 * Postdoctoral Teaching Associate in the [Department of Mathematics](https://www.cmu.edu/math/index.html) at [Carnegie Mellon University](https://www.cmu.edu/)
 * Ph.D. in Mathematics from Carnegie Mellon University, specializing in the analysis of the [Navier-Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) (unfortunately, haven't solved the [million dollar Millennium problem](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness) yet)
 * Particularly interested in quantitative modeling, statistical analysis and applications of deep learning algorithms to solve real-world data-driven problems 
-* Actively seeking **quantitative research** and **data science** positions where I can apply my analytical expertise and leadership skills to deliver products and make meaningful contributions. My resume is available by request ([email](mailto:jkoganem@gmail.com)), and I am always open to new opportunities and collaborations. 
+* Actively seeking **quantitative research** and **data science** positions where I can apply my analytical expertise and leadership skills to deliver products and make meaningful contributions. My resume is available by request ([email](mailto:jkoganem@gmail.com)), and I am always open to new opportunities and collaborations
 
 <hr style="border:2px solid #4682b4">
 
@@ -25,8 +25,7 @@
 
 ### 🤔 Current Projects
 
-* Teaching a course on applications of Linear Algebra to Engineering, Data Science, and Machine Learning at Carnegie Mellon University [[GitHub Repo](https://github.com/jkoganem/Teaching-Advanced-Linear-Algebra-21366)]
-* Teaching Differential Equations at Carnegie Mellon University [[GitHub Repo](https://github.com/jkoganem/Teaching-Differential-Equations-21260)]
+* Developing a new course on applications of Linear Algebra to Engineering, Data Science, and Machine Learning at Carnegie Mellon University [[GitHub Repo](https://github.com/jkoganem/Teaching-Advanced-Linear-Algebra-21366)]
 
 
 <hr style="border:2px solid #4682b4">
