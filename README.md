@@ -25,8 +25,8 @@
 
 ### 🤔 Current Projects
 
-* Teaching a course on applications of Linear Algebra to Engineering, Data Science, and Machine Learning at Carnegie Mellon University [GitHub Repo](https://github.com/jkoganem/Teaching-Advanced-Linear-Algebra-21366)
-* Teaching Differential Equations at Carnegie Mellon University [GitHub Repo](https://github.com/jkoganem/Teaching-Differential-Equations-21260)
+* Teaching a course on applications of Linear Algebra to Engineering, Data Science, and Machine Learning at Carnegie Mellon University [[GitHub Repo](https://github.com/jkoganem/Teaching-Advanced-Linear-Algebra-21366)]
+* Teaching Differential Equations at Carnegie Mellon University [[GitHub Repo](https://github.com/jkoganem/Teaching-Differential-Equations-21260)]
 
 
 <hr style="border:2px solid #4682b4">
