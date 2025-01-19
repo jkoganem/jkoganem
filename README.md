@@ -41,12 +41,12 @@
 
 ### 🧑‍🏫 Past Projects
 * **Bird Species Identification on Audio Samples using CNNs** [[GitHub Repo]()]
-    * Main tools: Python, PyTorch, Librosa, Pandas, Matplotlib, Scikit-learn
+    * Main tools: Python, PyTorch, Librosa, Pandas, Matplotlib, Scikit-learn, Linux (Remote Cluster Management)
     * Top 5 project out of 50+ submissions in Erdős Institute Data Science Boot Camp; presented at project showcase
     * Built 5+ PyTorch multiclass classification models using CNNs to classify 180+ bird species from 24GB audio database 
     * Optimized mel spectrogram preprocessing and model architecture to achieve 14% ROC-AUC score boost over baseline
 * **Detecting AI Generated Text with SBERT** [[GitHub Repo]()]
-    * Main tools: Python, Pandas, Scikit-learn, Hugging Face Transformers, Sentence Transformers (SBERT), XGBoost, Optuna
+    * Main tools: Python, Pandas, Scikit-learn, Sentence Transformers (SBERT), XGBoost, Support Vector Machines (SVM), Optuna
     * Conducted in-depth exploratory data analysis on LLM-generated text, detected data leakage with statistical analysis
     * Performed robust data preprocessing and optimized baseline XGBoost model with Optuna to achieve 75% accuracy    
     * Fine-tuned SBERT transformer with classification head and improved accuracy to 92% on holdout testing data
@@ -57,7 +57,8 @@
     * J. Koganemaru, I. Tice. Traveling wave solutions to the free boundary incompressible Navier-Stokes equations with Navier boundary conditions. Journal of Differential Equations. 2024. 57 pages. [[Journal Link](https://www.sciencedirect.com/science/article/pii/S0022039624004741)]
     * J.Koganemaru, I. Tice. Traveling wave solutions to the inclined or periodic free boundary incompressible Navier-Stokes equations. Journal of Functional Analysis. 2023. 75 pages. [[Journal Link](https://www.sciencedirect.com/science/article/pii/S0022123623002148)]
 
-* Ph.D. thesis: Traveling wave solutions to the free boundary incompressible Navier-Stokes equations. 2023. 257 pages. [[Link](https://kilthub.cmu.edu/articles/thesis/Traveling_wave_solutions_to_the_free_boundary_incompressible_Navier-Stokes_equations/24053892?file=42184224)]
+* **Ph.D. thesis**
+  * Traveling wave solutions to the free boundary incompressible Navier-Stokes equations. 2023. 257 pages. [[Link](https://kilthub.cmu.edu/articles/thesis/Traveling_wave_solutions_to_the_free_boundary_incompressible_Navier-Stokes_equations/24053892?file=42184224)]
 
 <hr style="border:2px solid #4682b4">
 
