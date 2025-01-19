@@ -18,6 +18,13 @@
 
 <hr style="border:2px solid #4682b4">
 
+### 📫 Contact 
+
+* LinkedIn: [Junichi Koganemaru](https://www.linkedin.com/in/junichi-koganemaru/)
+* Email: [jkoganem at andrew dot cmu dot edu](mailto:jkoganem@andrew.cmu.edu)
+
+<hr style="border:2px solid #4682b4">
+
 ### ☕ About Me
 
 * **Detailed oriented researcher**: my research involves the analysis of nonlinear partial differential equations, often requiring meticulous derivation of a priori estimates combined with deep ideas from Functional Analysis 
@@ -53,10 +60,6 @@
 
 <hr style="border:2px solid #4682b4">
 
-### 📫 Contact 
-
-* LinkedIn: [Junichi Koganemaru](https://www.linkedin.com/in/junichi-koganemaru/)
-* Email: [jkoganem at andrew dot cmu dot edu](mailto:jkoganem@andrew.cmu.edu)
 
 
 
