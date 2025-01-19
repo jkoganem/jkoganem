@@ -53,7 +53,7 @@
 * **Improving Retrieval-Augmented Generation (RAG) by Averaging** [[GitHub Repo]()]
   * Main tools: Python, Pandas, PyTorch, Scikit-learn, Sentence Transformers (SBERT), K-means clustering
 
-* Research publications:
+* **Publications**
     * J. Koganemaru, I. Tice. Traveling wave solutions to the free boundary incompressible Navier-Stokes equations with Navier boundary conditions. Journal of Differential Equations. 2024. 57 pages. [[Journal Link](https://www.sciencedirect.com/science/article/pii/S0022039624004741)]
     * J.Koganemaru, I. Tice. Traveling wave solutions to the inclined or periodic free boundary incompressible Navier-Stokes equations. Journal of Functional Analysis. 2023. 75 pages. [[Journal Link](https://www.sciencedirect.com/science/article/pii/S0022123623002148)]
 
