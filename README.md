@@ -34,6 +34,8 @@
 
 For more about my research, please check out [these slides](./equadiff2024-slides.pdf) from a talk I gave at the [Equadiff conference](https://www.kau.se/en/equadiff-2024/about-conference) in Karlstad, Sweden. A more thorough introduction to my research can be found in the first part of [my thesis](https://kilthub.cmu.edu/articles/thesis/Traveling_wave_solutions_to_the_free_boundary_incompressible_Navier-Stokes_equations/24053892?file=42184224).
 
+<hr style="border:2px solid #4682b4">
+
 ### 🤔 Current Projects
 
 * Developing a new course on modern applications of Linear Algebra to Engineering, Data Science, and Machine Learning at Carnegie Mellon University [[GitHub Repo](https://github.com/jkoganem/Teaching-Advanced-Linear-Algebra-21366)]
@@ -64,3 +66,36 @@ For more about my research, please check out [these slides](./equadiff2024-slide
 
 <hr style="border:2px solid #4682b4">
 
+### 🎓 Education
+
+
+* Carnegie Mellon University, Pittsburgh, PA
+  * Ph.D. in Mathematics, 2017-2023
+
+* New York University, New York, NY
+  * B.A. in Mathematics with Honors, 2013-2017
+
+
+
+
+
+
+<hr style="border:2px solid #4682b4">
+
+### 🗞 Awards and Certificates
+
+* The Erdős Institute Deep Learning Boot Camp, 2024 [[Certificate](https://www.erdosinstitute.org/certificates/may-summer-2024/deep-learning-boot-camp/junichi-koganemaru)]
+* The Erdős Institute Data Science Boot Camp, 2024 [[Certificate](https://www.erdosinstitute.org/certificates/may-summer-2024/data-science-boot-camp/junichi-koganemaru)]
+* The Erdős Institute People Oriented Project Management, 2024 [[Certificate](https://www.erdosinstitute.org/certificates/spring-2024/people-oriented-project-management-mini-course/junichi-koganemaru)]
+* Hugh D. Young Graduate Student Teaching Award, 2022 [[Article](https://www.cmu.edu/math/news-events/articles/20220608_young-award.html)]
+
+
+
+
+
+
+
+
+
+
+<hr style="border:2px solid #4682b4">
