@@ -44,18 +44,22 @@ For more about my research, please check out [these slides](./equadiff2024-slide
 <hr style="border:2px solid #4682b4">
 
 ### 🧑‍🏫 Past Projects
-* **Bird Species Identification on Audio Samples using CNNs** [[GitHub Repo]()]
+* **Bird Species Identification on Audio Samples using CNNs** [[GitHub Repo](https://github.com/AmziJeffs/Erdos_birdCLEF)]
     * Main tools: Python, PyTorch, Librosa, Pandas, Matplotlib, Scikit-learn, Linux (Remote Cluster Management)
     * Top 5 project out of 50+ submissions in Erdős Institute Data Science Boot Camp; presented at project showcase
     * Built 5+ PyTorch multiclass classification models using CNNs to classify 180+ bird species from 24GB audio database 
     * Optimized mel spectrogram preprocessing and model architecture to achieve 14% ROC-AUC score boost over baseline
-* **Detecting AI Generated Text with SBERT** [[GitHub Repo]()]
+* **Detecting AI Generated Text with SBERT** [[GitHub Repo](https://github.com/jkoganem/fakereview)]
     * Main tools: Python, Pandas, Scikit-learn, Sentence Transformers (SBERT), XGBoost, Support Vector Machines (SVM), Optuna
     * Conducted in-depth exploratory data analysis on LLM-generated text, detected data leakage with statistical analysis
     * Performed robust data preprocessing and optimized baseline XGBoost model with Optuna to achieve 75% accuracy    
     * Fine-tuned SBERT transformer with classification head and improved accuracy to 92% on holdout testing data
-* **Improving Retrieval-Augmented Generation (RAG) by Averaging** [[GitHub Repo]()]
-  * Main tools: Python, Pandas, PyTorch, Scikit-learn, Sentence Transformers (SBERT), K-means clustering
+* **Improving Retrieval-Augmented Generation (RAG) by Averaging** [[GitHub Repo](https://github.com/gycheong/rag_by_averaging)]
+  * Main tools: Python, Pandas, PyTorch, Scikit-learn, Sentence Transformers (SBERT), Synthetic query generation, K-means clustering
+  * Developed a Retrieval-Augmented Generation (RAG) pipeline for query response generation based on Reddit data
+  * Improved performance over baseline model with respect to cosine precision and ranked precision by utilizing synthetic query generation and reranking queries based on average cosine similarity 
+  * Reduced average response time to under 1 second by applying K-means clustering 
+
 
 * **Publications**
     * J. Koganemaru, I. Tice. Traveling wave solutions to the free boundary incompressible Navier-Stokes equations with Navier boundary conditions. Journal of Differential Equations. 2024. 57 pages. [[Journal Link](https://www.sciencedirect.com/science/article/pii/S0022039624004741)]
