@@ -27,10 +27,12 @@
 
 ### ☕ About Me
 
-* **Detailed oriented researcher**: my research involves the analysis of nonlinear partial differential equations, often requiring meticulous derivation of a priori estimates combined with deep ideas from Functional Analysis 
 * **Machine Learning practitioner**: I have been working on data-driven projects using statistical and machine learning techniques and have experience training and deploying deep learning models in PyTorch and TensorFlow (see [Past Projects](#-past-projects) below)
 * **Passionate mentor and educator**: I have taught over 500+ students as an instructor at Carnegie Mellon and mentored numerous undergraduate students in summer research projects. I strive to create a supportive learning environment and for all my students to succeed in their academic and professional careers
 
+* **Detailed oriented researcher**: my research involves the analysis of nonlinear partial differential equations, often requiring meticulous derivation of a priori estimates combined with deep ideas from Functional Analysis 
+
+For more about my research, please check out [these slides](./equadiff2024-slides.pdf) from a talk I gave at the [Equadiff conference](https://www.kau.se/en/equadiff-2024/about-conference) in Karlstad, Sweden. A more thorough introduction to my research can be found in the first part of [my thesis](https://kilthub.cmu.edu/articles/thesis/Traveling_wave_solutions_to_the_free_boundary_incompressible_Navier-Stokes_equations/24053892?file=42184224).
 
 ### 🤔 Current Projects
 
@@ -62,31 +64,3 @@
 
 <hr style="border:2px solid #4682b4">
 
-
-
-
-<!-- 
-
-<hr style="border:2px solid #4682b4">
-
-## 🤔 Current Projects 
-
-
-<!--
-**jkoganem/jkoganem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 
-
-## 📫 How to reach me: ... --> 
