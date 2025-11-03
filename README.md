@@ -1,3 +1,3 @@
-I am a mathematician by training with a Ph.D. in Mathematics from <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>, where I had the privilege of being advised by <a href='https://www.math.cmu.edu/~iantice/'>Professor Ian Tice</a>. I successfully defended my thesis in 2023 and continued as a postdoctoral associate in the same department from 2023 to 2025. My doctoral research focused on the rigorous analysis of the <a href='https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations'>incompressible Navier-Stokes equations</a>, studying the dynamics of viscous fluids in the presence of free boundaries.
+I am a mathematician by training with a Ph.D. in Mathematics from <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>.
 
-For more information about my research and publications, please visit my <a href='https://jkoganem.github.io/'>personal website</a>.
+For more information, please visit my <a href='https://jkoganem.github.io/'>personal website</a>.
